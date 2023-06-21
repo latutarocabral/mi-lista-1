@@ -1,15 +1,21 @@
 # mi-lista-1
 Listando 
 #EXTM3U
-#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN 1
-http://8.242.187.233:5800/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN2
-http://8.242.187.233:5800/play/a0bs/index.m3u8
-#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",ESPN3
-http://8.242.187.233:5800/play/a0bi/index.m3u8
-#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png",ESPN EXTRA 
-http://8.242.187.233:5800/play/a0cd/index.m3u8
-#EXTINF:-1 tvg-logo=" https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",ESPN 4
-http://8.242.187.233:5800/play/a0br/index.m3u8
+#EXTINF:-1,
+https://redirect.veoh.com/flash/p/2/v142274756Am7HKamq/h142274756.mp4?ct=86bd04f6a49972e670a1c6222b6406a79472101fc00b0ee6
+#EXTINF:-1,
+https://redirect.veoh.com/flash/p/2/v142274756Am7HKamq/h142274756.mp4?ct=86bd04f6a49972e670a1c6222b6406a79472101fc00b0ee6
+#EXTINF:-1,
+https://redirect.veoh.com/flash/p/2/v142274758d9cC2hqP/h142274758.mp4?ct=7f459146af39ed034c914c27454fafcb30741a5c0e61e26e
+#EXTINF:-1,
+https://redirect.veoh.com/flash/p/2/v142274759KpjHEWTC/h142274759.mp4?ct=87951df753dfcae8bfb4a3a5e1dc8298b1e98453374db607
+#EXTINF-1,
+https://redirect.veoh.com/flash/p/2/v142274760gGXbCEB4/h142274760.mp4?ct=99a098c9a5004152dcb1922bf2a01ab1af62d19f34966833
+#EXTIMF:-1,
+https://redirect.veoh.com/flash/p/2/v1422747614krkJ2ZE/h142274761.mp4?ct=32ef372c34cabde2a3ef4ff99b8502c9634b430397e0be1c
+#EXTINF:-1,
+https://redirect.veoh.com/flash/p/2/v142274762xqDwAAfC/h142274762.mp4?ct=7f06667a98237c292343c161e702d7544ede7471cd104ab4
+#EXTINF:-1
+https://redirect.veoh.com/flash/p/2/v1422747638aFGzsP2/h142274763.mp4?ct=3b531fbfcffe16fd918caee1681c398c3fb832fa5569815e
 #EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-PJBIuonAapU/XW3IAQjonnI/AAAAAAAAAJU/1murtLXym8kU5Oh6MD1pRBgYkqzS6joZACLcBGAs/s1600/fox-sports-2.png",Fox sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
