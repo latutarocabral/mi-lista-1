@@ -1,17 +1,207 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 1x8
-https://redirect.veoh.com/flash/p/2/v142274756Am7HKamq/h142274756.mp4?ct=86bd04f6a49972e670a1c6222b6406a79472101fc00b0ee6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 2x8
-https://redirect.veoh.com/flash/p/2/v142274758d9cC2hqP/h142274758.mp4?ct=7f459146af39ed034c914c27454fafcb30741a5c0e61e26e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 3x8
-https://redirect.veoh.com/flash/p/2/v142274759KpjHEWTC/h142274759.mp4?ct=87951df753dfcae8bfb4a3a5e1dc8298b1e98453374db607
-#EXTINF-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 4x8
-https://redirect.veoh.com/flash/p/2/v142274759KpjHEWTC/h142274759.mp4?ct=ecb046e343f338a318fc0db79ffa9e419942f580c78daf6b
-#EXTIMF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 5x8
-https://redirect.veoh.com/flash/p/2/v142274760gGXbCEB4/h142274760.mp4?ct=fc47a7341bb85b0a98eddf35b8637e70de299b68cd1b8e6f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 6x8
-https://redirect.veoh.com/flash/p/2/v1422747614krkJ2ZE/h142274761.mp4?ct=ab6850567c6ec13e76f388a26040f12a6680eaee0a546fe2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 7x8
-https://redirect.veoh.com/flash/p/2/v142274762xqDwAAfC/h142274762.mp4?ct=638f87fda78ab0596f4c627c2938da6f2dc1b3e29932db0d
-#EXTINF:-1 tvg-logo "https://upload.wikimedia.org/wikipedia/en/2/28/Sonic_Prime_Logo_%28English%29.png",sonic prime 8x8
-https://redirect.veoh.com/flash/p/2/v1422747638aFGzsP2/h142274763.mp4?ct=155ea11a6826832a291c1e616891581348680579317f404b
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327914
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN 2]
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327915
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ Deporte Argentina",AR | ($ŠPN -3)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327916
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN) PREMIUM
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327917
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ Deporte Argentina",AR | TYC SPORTS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327918
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Deporte Argentina",AR | FUT SPORTS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327919
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/328108
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/328109
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 3
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/328110
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS PREMIUM
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/328111
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Deporte Argentina",AR | FUT SPORTS OP2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/327920
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN PR3MIUM Opc 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/377719
+#EXTINF:-1 tvg-id="lch6519" tvg-logo="http://redworld.pro:8880/images/183f2d3cb69d859eb233c796e47959f5.png" group-title="⭐️ DƏPORTES PE",PE| NATIVA TV
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/430210
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/d0696fc56d4f72caafad5032dd351b58.png" group-title="⭐️ DƏPORTES PE",PE | EVENTOS PERU DEPORTES
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/430211
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTES PE",PE*| E$PN 1 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533395
+#EXTINF:-1 tvg-id="lch3952" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DƏPORTES PE",PE | 3$PN 2 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533397
+#EXTINF:-1 tvg-id="lch2776" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTES PE",PE*| €SPN* 3 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533398
+#EXTINF:-1 tvg-id="lch2813" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 4 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533399
+#EXTINF:-1 tvg-id="lch2339" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 5 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533400
+#EXTINF:-1 tvg-id="lch2341" tvg-logo="http://redworld.pro:8880/images/fd5601481f6a11427ecbf909ecdaffb5.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 6 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533401
+#EXTINF:-1 tvg-id="lch2340" tvg-logo="http://redworld.pro:8880/images/6f2d6bdb1f6a118e736d2126df503e12.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 7 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533402
+#EXTINF:-1 tvg-id="lch7217" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533403
+#EXTINF:-1 tvg-id="lch7217" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX SD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533404
+#EXTINF:-1 tvg-id="lch7216" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533405
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533406
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE | D GAMES 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533407
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTES PE",PE |  D GAMES +
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533408
+#EXTINF:-1 tvg-id="lch3298" tvg-logo="http://redworld.pro:8880/images/d433e275a9107f856d8c228da5603b8a.png" group-title="⭐️ DƏPORTES PE",PE| MOVISTAR DEPORTES HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533409
+#EXTINF:-1 tvg-id="lch3298" tvg-logo="http://redworld.pro:8880/images/d433e275a9107f856d8c228da5603b8a.png" group-title="⭐️ DƏPORTES PE",PE| MOVISTAR DEPORTES SD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/533410
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/32b93d81e997e0e62abb75018e5a83c6.png" group-title="⭐️ Deporte Ecuador",EC | GOL TV HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/104112
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/517940c75b538e45aa9882ba29fe433d.png" group-title="⭐️ Deporte Ecuador",LIGA PRO - ECU
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/409988
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️ Deporte Ecuador",Z@pping sports ecu
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/502047
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 01
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/520014
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 02
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/520015
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 03
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/520016
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 04
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/520017
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [$ŠPN-3]
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167725
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167726
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN PR3MIUM
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167727
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | * $.Š.P.N U
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167729
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167731
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES +
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167732
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167733
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167734
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167735
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 3
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167736
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167737
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS +
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167738
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS 
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167739
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/1a13829ef621f7393ece854690b87731.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167742
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | GOLF CHANNEL
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167746
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TENNIS CHANEL 
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167748
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/e679f9f23ad226c87b4dd9acaa2fe186.png" group-title="⭐️ DƏPORTE VIP",Deportes | AFIZZIONADOS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167762
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167770
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN XTRA
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167771
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/d6bd13dae2fc753e0993c6b45644fa17.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167772
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/1c1b76b4f7192db1dd44528889d848f9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167773
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/5766b163e6c57795a1d69de316aa9954.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVC Deportes
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167775
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | *Ê$P*N D3PORTES
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167728
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN  NEWS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167730
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167774
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | Ŕ3@L M@DRÏD TV
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/394445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/407036
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $.Š.P.N 5
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/418591
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 6
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/418592
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 7
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/418593
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | Ty€ 5PORT5
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/443250
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/74e323da1aaf5d3a48ba061e0aef9b2d.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 1 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/447768
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/801ac82b4df21e08f0f71db1affb0f89.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 2 HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/447769
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/638254815f3d64d903e8c9fccaec4d1a.png" group-title="⭐️ DƏPORTE VIP",RED BULL TV
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/456701
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | [$ŠPN-1]
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/514017
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DƏPORTE VIP",D3PØRTĘS | [$ŠPN-2]
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/514018
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/cb9ba08fe282681f4ae34fdc866f0c41.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | ÑBÆ
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/514112
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 1 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/120545
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 2 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/120546
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 3 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/120547
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES + (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/120548
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES 2 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/120550
+#EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ CHILE DEPORTE",D GAMES 1 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167962
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ CHILE DEPORTE",*Ə$P*N 2 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167964
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ CHILE DEPORTE",*Ə$*PN 3 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/167965
+#EXTINF:-1 tvg-id="cdobasico.cl" tvg-logo="http://redworld.pro:8880/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="⭐️ CHILE DEPORTE",CDO 2 
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/273686
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ CHILE DEPORTE",*Ə*$P*N 1 (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/338193
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/68a464285551d64366caa7bd08231975.png" group-title="⭐️ CHILE DEPORTE",FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/430649
+#EXTINF:-1 tvg-id="CDFPremium.cl@SD" tvg-logo="http://redworld.pro:8880/images/a10f323208a182454a28c34c9766801c.png" group-title="⭐️ CHILE DEPORTE",FUT PREMIER CHI | HD OP 2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/430650
+#EXTINF:-1 tvg-id="CDFPremium.cl@SD" tvg-logo="http://redworld.pro:8880/images/a10f323208a182454a28c34c9766801c.png" group-title="⭐️ CHILE DEPORTE",FUT PREMIER SD (CHI)
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/430651
+#EXTINF:-1 tvg-id="" tvg-logo="http://goldfull.pro:8880/images/642c97f41f77f0bbac5e962c51549949.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/394835
+#EXTINF:-1 tvg-id="" tvg-logo="http://goldfull.pro:8880/images/4b7af4708871f5837bf6440f3d11942e.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV OP2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/394836
+#EXTINF:-1 tvg-id="" tvg-logo="http://goldfull.pro:8880/images/e6ccd2f0921113e7b8ee75422c01cc91.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV+ HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/394837
+#EXTINF:-1 tvg-id="" tvg-logo="http://goldfull.pro:8880/images/e6ccd2f0921113e7b8ee75422c01cc91.png" group-title="⭐️ Deportes Uruguay",DEP. URUGUAY | VTV PLUS OP2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/394838
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia",CO | W $ports + HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/437740
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="⭐️ Deporte Colombia",CO | W $ports + OP2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/437741
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia",CO | W $ports HD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/437742
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="⭐️ Deporte Colombia",CO | W $ports SD
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/437743
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ Deporte Colombia",CO | D GAME 1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/532987
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP1
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/547721
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP2
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/547724
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP3
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/547725
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP4
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/558507
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP5
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/558508
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/450153
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS LIGA PY
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/450154
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="⭐️ Futbol Paraguay",TIGO SPORTS 3
+http://superxlatino.com:8880/Ricardopjn1/cjcDwjFQuNBu/450155
