@@ -1,32 +1,32 @@
 #EXTM3U
 
 # ==================== AIRE Y NOTICIAS ====================
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="" group-title="Aire y Noticias",LN+ (Dial 1)
-http://servidor.com/live/usuario/password/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="Aire y Noticias",Telemax (Dial 2)
-http://servidor.com/live/usuario/password/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="" group-title="Aire y Noticias",TN - Todo Noticias (Dial 3)
-http://servidor.com/live/usuario/password/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="Aire y Noticias",A24 (Dial 4)
-http://servidor.com/live/usuario/password/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="" group-title="Aire y Noticias",C5N (Dial 5)
-http://servidor.com/live/usuario/password/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="" group-title="Aire y Noticias",LN+
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546271
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="Aire y Noticias",Telemax
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546262
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="" group-title="Aire y Noticias",TN - Todo Noticias
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167961
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="Aire y Noticias",A24
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546277
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="" group-title="Aire y Noticias",C5N 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546279
 #EXTINF:-1 tvg-id="" tvg-name="Cronica TV" tvg-logo="" group-title="Aire y Noticias",Crónica TV (Dial 6)
 http://servidor.com/live/usuario/password/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="Aire y Noticias",Canal 26 (Dial 7)
-http://servidor.com/live/usuario/password/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" tvg-logo="" group-title="Aire y Noticias",Telefe HD (Dial 1001)
-http://servidor.com/live/usuario/password/1001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" tvg-logo="" group-title="Aire y Noticias",El Trece HD (Dial 1003)
-http://servidor.com/live/usuario/password/1003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemax HD" tvg-logo="" group-title="Aire y Noticias",Telemax HD (Dial 1004)
-http://servidor.com/live/usuario/password/1004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="Aire y Noticias",Canal 26
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546283
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" tvg-logo="" group-title="Aire y Noticias",Telefe HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546256
+#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" tvg-logo="" group-title="Aire y Noticias",El Trece HD 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167934
+#EXTINF:-1 tvg-id="" tvg-name="Telemax HD" tvg-logo="" group-title="Aire y Noticias",Telemax HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546284
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="" group-title="Aire y Noticias",América TV HD (Dial 1005)
-http://servidor.com/live/usuario/password/1005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" tvg-logo="" group-title="Aire y Noticias",TV Pública HD (Dial 1007)
-http://servidor.com/live/usuario/password/1007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="" group-title="Aire y Noticias",El Nueve HD (Dial 1008)
-http://servidor.com/live/usuario/password/1008.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546250
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" tvg-logo="" group-title="Aire y Noticias",TV Pública HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546276
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="" group-title="Aire y Noticias",El Nueve HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546287
 #EXTINF:-1 tvg-id="" tvg-name="Net TV HD" tvg-logo="" group-title="Aire y Noticias",Net TV HD (Dial 1019)
 http://servidor.com/live/usuario/password/1019.m3u8
 
