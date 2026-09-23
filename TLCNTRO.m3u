@@ -28,7 +28,7 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546276
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="" group-title="Aire y Noticias",El Nueve HD
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546287
 #EXTINF:-1 tvg-id="" tvg-name="Net TV HD" tvg-logo="" group-title="Aire y Noticias",Net TV HD (Dial 1019)
-http://servidor.com/live/usuario/password/1019.m3u8
+http://starlatino.tv:8880/ginito5278/XFb9eLdKYZmm/359919
 
 # ==================== DEPORTES ====================
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Deportes",ESPN HD
@@ -79,12 +79,12 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167659
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/179821
 #EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="Internacionales",RAI (Dial 309)
 http://servidor.com/live/usuario/password/309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="Internacionales",CNN International (Dial 311)
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="Internacionales",CNN International
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546307
 #EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="Internacionales",BBC News (Dial 312)
 http://servidor.com/live/usuario/password/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Internacionales",Telemundo HD (Dial 1081)
-http://servidor.com/live/usuario/password/1081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Internacionales",Telemundo HD
+http://iptvpremium.ink:55577/orl00987/orl0654/167629
 #EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="" group-title="Internacionales",RAI HD (Dial 1084)
 http://servidor.com/live/usuario/password/1084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="Internacionales",Star TVE HD (Dial 1089)
@@ -121,7 +121,7 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/1926
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167534
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="Cine y Series",Cinecanal HD
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167504
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Cine y Series",TNT HD (Dial 1034)
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Cine y Series",TNT HD
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167540
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Cine y Series",AMC HD (Dial 1036)
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167502
