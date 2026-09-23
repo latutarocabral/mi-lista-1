@@ -147,31 +147,31 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167077
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167928
 
 # ==================== DOCUMENTALES Y VARIETIES ====================
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery Channel (Dial 500)
-http://servidor.com/live/usuario/password/500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic (Dial 501)
-http://servidor.com/live/usuario/password/501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="Documentales",History (Dial 502)
-http://servidor.com/live/usuario/password/502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2 (Dial 503)
-http://servidor.com/live/usuario/password/503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentales",Animal Planet (Dial 505)
-http://servidor.com/live/usuario/password/505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery Channel
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167562
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167586
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="Documentales",History
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167590
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167589
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentales",Animal Planet
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167559
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Documentales",TLC (Dial 506)
 http://servidor.com/live/usuario/password/506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Documentales",El Gourmet (Dial 507)
-http://servidor.com/live/usuario/password/507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Documentales",NatGeo HD (Dial 1070)
-http://servidor.com/live/usuario/password/1070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Documentales",Discovery HD (Dial 1071)
-http://servidor.com/live/usuario/password/1071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Documentales",History HD (Dial 1072)
-http://servidor.com/live/usuario/password/1072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="Documentales",History 2 HD (Dial 1073)
-http://servidor.com/live/usuario/password/1073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="Documentales",El Gourmet HD (Dial 1078)
-http://servidor.com/live/usuario/password/1078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Documentales",Animal Planet HD (Dial 1079)
-http://servidor.com/live/usuario/password/1079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" group-title="Documentales",Home & Health HD (Dial 1080)
-http://servidor.com/live/usuario/password/1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Documentales",El Gourmet
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167649
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Documentales",NatGeo HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167583
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Documentales",Discovery HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/258217
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Documentales",History HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167577
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="Documentales",History 2 HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167576
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="Documentales",El Gourmet HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167604
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Documentales",Animal Planet HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167557
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" group-title="Documentales",Home & Health HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167566
