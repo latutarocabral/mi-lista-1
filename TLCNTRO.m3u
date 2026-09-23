@@ -11,8 +11,6 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167961
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546277
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="" group-title="Aire y Noticias",C5N 
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546279
-#EXTINF:-1 tvg-id="" tvg-name="Cronica TV" tvg-logo="" group-title="Aire y Noticias",Crónica TV (Dial 6)
-http://servidor.com/live/usuario/password/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="Aire y Noticias",Canal 26
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546283
 #EXTINF:-1 tvg-id="" tvg-name="Telefe HD" tvg-logo="" group-title="Aire y Noticias",Telefe HD
@@ -77,18 +75,12 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167655
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167659
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Internacionales",Telemundo
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/179821
-#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="Internacionales",RAI (Dial 309)
-http://servidor.com/live/usuario/password/309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="Internacionales",CNN International
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546307
-#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="Internacionales",BBC News (Dial 312)
-http://servidor.com/live/usuario/password/312.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Internacionales",Telemundo HD
 http://iptvpremium.ink:55577/orl00987/orl0654/167629
-#EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="" group-title="Internacionales",RAI HD (Dial 1084)
-http://servidor.com/live/usuario/password/1084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="Internacionales",Star TVE HD (Dial 1089)
-http://servidor.com/live/usuario/password/1089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="Internacionales",Star TVE HD
+http://iptvpremium.ink:55577/orl00987/orl0654/167655
 
 # ==================== CINE Y SERIES ====================
 #EXTINF:-1 tvg-id="" tvg-name="Cine.Ar" tvg-logo="" group-title="Cine y Series",Cine.Ar
@@ -157,8 +149,8 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167590
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167589
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentales",Animal Planet
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167559
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Documentales",TLC (Dial 506)
-http://servidor.com/live/usuario/password/506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Documentales",TCM
+http://iptvpremium.ink:55577/7766656888/4333667788/167538
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Documentales",El Gourmet
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167649
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Documentales",NatGeo HD
