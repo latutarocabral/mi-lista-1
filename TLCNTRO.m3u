@@ -45,8 +45,8 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178985
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178983
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="" group-title="Deportes",TyC Sports
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178967
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Deportes",Directv
-http://servidor.com/live/usuario/password/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Directv" tvg-logo="" group-title="Deportes",Directv
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167209
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="Deportes",ESPN 3
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178986
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Deportes",ESPN 2 HD
@@ -55,12 +55,12 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178985
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178981
 #EXTINF:-1 tvg-id="" tvg-name="TnT Sports" tvg-logo="" group-title="Deportes",TnT Sports 
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178962
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="" group-title="Deportes",Fox Sports HD (Dial 1013)
-http://servidor.com/live/usuario/password/1013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="Deportes",Fox Sports 2 HD (Dial 1014)
-http://servidor.com/live/usuario/password/1014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="Deportes",Fox Sports 3 HD (Dial 1015)
-http://servidor.com/live/usuario/password/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TnT Sports" tvg-logo="" group-title="Deportes",TnT Sports 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178969
+#EXTINF:-1 tvg-id="" tvg-name="TnT Sports" tvg-logo="" group-title="Deportes",TnT Sports 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178971
+#EXTINF:-1 tvg-id="" tvg-name="TyCSports" tvg-logo="" group-title="Deportes",TyC Sports 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178966
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="" group-title="Deportes",TyC Sports
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178968
 #EXTINF:-1 tvg-id="" tvg-name=" Fox SportsPremium" tvg-logo="" group-title="Deportes",Fox Sports Premium 
@@ -68,49 +68,19 @@ http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178964
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="" group-title="Deportes",Fox Sports Premium 
 http://iptvpremium.ink:55577/illwa001/111aaa78BDF/178965
 
-# ==================== INFANTILES ====================
-#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" tvg-logo="" group-title="Infantiles",Pakapaka (Dial 200)
-http://servidor.com/live/usuario/password/200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Infantiles",Disney Junior (Dial 201)
-http://servidor.com/live/usuario/password/201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantiles",Cartoon Network (Dial 202)
-http://servidor.com/live/usuario/password/202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel (Dial 203)
-http://servidor.com/live/usuario/password/203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantiles",Nickelodeon (Dial 204)
-http://servidor.com/live/usuario/password/204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="Infantiles",Cartoonito (Dial 205)
-http://servidor.com/live/usuario/password/205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantiles",Discovery Kids (Dial 207)
-http://servidor.com/live/usuario/password/207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Infantiles",Nick Jr. (Dial 210)
-http://servidor.com/live/usuario/password/210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Infantiles",Baby TV (Dial 211)
-http://servidor.com/live/usuario/password/211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Infantiles",Nickelodeon HD (Dial 1022)
-http://servidor.com/live/usuario/password/1022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Infantiles",Cartoon Network HD (Dial 1023)
-http://servidor.com/live/usuario/password/1023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="" group-title="Infantiles",Cartoonito HD (Dial 1025)
-http://servidor.com/live/usuario/password/1025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" group-title="Infantiles",Discovery Kids HD (Dial 1026)
-http://servidor.com/live/usuario/password/1026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="Infantiles",Disney Channel HD (Dial 1027)
-http://servidor.com/live/usuario/password/1027.m3u8
-
 # ==================== INTERNACIONALES ====================
-#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="" group-title="Internacionales",TeleSUR (Dial 300)
-http://servidor.com/live/usuario/password/300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="Internacionales",TVE (Dial 302)
-http://servidor.com/live/usuario/password/302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="" group-title="Internacionales",CNN en Español (Dial 303)
-http://servidor.com/live/usuario/password/303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Internacionales",Telemundo (Dial 305)
-http://servidor.com/live/usuario/password/305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="" group-title="Internacionales",TeleSUR
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/193588
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="Internacionales",TVE
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167655
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="" group-title="Internacionales",CNN en Español
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167659
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Internacionales",Telemundo
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/179821
 #EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="Internacionales",RAI (Dial 309)
 http://servidor.com/live/usuario/password/309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="Internacionales",CNN International (Dial 311)
-http://servidor.com/live/usuario/password/311.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546307
 #EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="Internacionales",BBC News (Dial 312)
 http://servidor.com/live/usuario/password/312.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Internacionales",Telemundo HD (Dial 1081)
@@ -121,60 +91,60 @@ http://servidor.com/live/usuario/password/1084.m3u8
 http://servidor.com/live/usuario/password/1089.m3u8
 
 # ==================== CINE Y SERIES ====================
-#EXTINF:-1 tvg-id="" tvg-name="Cine.Ar" tvg-logo="" group-title="Cine y Series",Cine.Ar (Dial 400)
-http://servidor.com/live/usuario/password/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Cine y Series",FX (Dial 402)
-http://servidor.com/live/usuario/password/402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="Cine y Series",Star Channel (Dial 403)
-http://servidor.com/live/usuario/password/403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Cine y Series",Space (Dial 405)
-http://servidor.com/live/usuario/password/405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="Cine y Series",Cinecanal (Dial 406)
-http://servidor.com/live/usuario/password/406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Cine y Series",TNT (Dial 407)
-http://servidor.com/live/usuario/password/407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine.Ar" tvg-logo="" group-title="Cine y Series",Cine.Ar
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/546281
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Cine y Series",FX
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167069
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="Cine y Series",Star Channel
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167074
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Cine y Series",Space
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167533
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="Cine y Series",Cinecanal
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167505
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Cine y Series",TNT
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167079
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Cine y Series",Cinemax (Dial 412)
-http://servidor.com/live/usuario/password/412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Cine y Series",Studio Universal (Dial 413)
-http://servidor.com/live/usuario/password/413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Cine y Series",AMC (Dial 416)
-http://servidor.com/live/usuario/password/416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Cine y Series",AXN (Dial 417)
-http://servidor.com/live/usuario/password/417.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167507
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Cine y Series",Studio Universal
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167537
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Cine y Series",AMC
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167501
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Cine y Series",AXN
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167067
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="" group-title="Cine y Series",ID (Dial 418)
-http://servidor.com/live/usuario/password/418.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/159240
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="" group-title="Cine y Series",Star Channel HD (Dial 1030)
-http://servidor.com/live/usuario/password/1030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="" group-title="Cine y Series",Universal TV HD (Dial 1031)
-http://servidor.com/live/usuario/password/1031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Cine y Series",Space HD (Dial 1032)
-http://servidor.com/live/usuario/password/1032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="Cine y Series",Cinecanal HD (Dial 1033)
-http://servidor.com/live/usuario/password/1033.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167090
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="" group-title="Cine y Series",Universal TV HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/1926
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Cine y Series",Space HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167534
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="Cine y Series",Cinecanal HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167504
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Cine y Series",TNT HD (Dial 1034)
-http://servidor.com/live/usuario/password/1034.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167540
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Cine y Series",AMC HD (Dial 1036)
-http://servidor.com/live/usuario/password/1036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Cine y Series",AXN HD (Dial 1037)
-http://servidor.com/live/usuario/password/1037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Cine y Series",Warner Channel HD (Dial 1038)
-http://servidor.com/live/usuario/password/1038.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167502
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Cine y Series",AXN HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/180021
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Cine y Series",Warner Channel HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167083
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Cine y Series",A&E HD (Dial 1039)
-http://servidor.com/live/usuario/password/1039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="Cine y Series",Cinemax HD (Dial 1041)
-http://servidor.com/live/usuario/password/1041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Cine y Series",FX HD (Dial 1042)
-http://servidor.com/live/usuario/password/1042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="" group-title="Cine y Series",Paramount Network HD (Dial 1043)
-http://servidor.com/live/usuario/password/1043.m3u8
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167063
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="Cine y Series",Cinemax HD 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167506
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Cine y Series",FX HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167070
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="" group-title="Cine y Series",Paramount Network HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/462207
 #EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="" group-title="Cine y Series",ID HD (Dial 1044)
 http://servidor.com/live/usuario/password/1044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="Cine y Series",Studio Universal HD (Dial 1045)
-http://servidor.com/live/usuario/password/1045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="Cine y Series",SyFy HD (Dial 1048)
-http://servidor.com/live/usuario/password/1048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine.Ar HD" tvg-logo="" group-title="Cine y Series",Cine.Ar HD (Dial 1049)
-http://servidor.com/live/usuario/password/1049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="Cine y Series",Studio Universal HD 
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167535
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="Cine y Series",SyFy HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167077
+#EXTINF:-1 tvg-id="" tvg-name="Cine.Ar HD" tvg-logo="" group-title="Cine y Series",Cine.Ar HD
+http://iptvpremium.ink:55577/illwa001/111aaa78BDF/167928
 
 # ==================== DOCUMENTALES Y VARIETIES ====================
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery Channel (Dial 500)
