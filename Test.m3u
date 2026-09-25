@@ -1,0 +1,683 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", D Sports
+https://khala.skylivehd.com/global/dsports/index.m3u8?ip=181.117.8.18&token=bce658265e2a80bf3c77c1e629ff86a20976e01e-e7-1782826126-1782772126
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", D Sports SD
+https://ss.domain77654422122.sbs/global/dsports/index.m3u8?token=3f7e5e8be26a14da8dd129b7f0ae7c93182a9037-c1-1782826192-1782772192&ip=181.117.8.18
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN Disney
+https://khala.skylivehd.com:443/disney1/index.m3u8?ip=181.117.8.18&token=becb24df15124d17e17b591cff232686d41ed1a8-d3-1782383423-1782329423
+#EXTINF:0 type="stream" channelId="-1", ESPN Premium
+http://152.231.29.139:8000/play/a0cv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TUDN USA
+https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an={{appName}}&msid={{appPackage}}&app_bundle={{appPackage}}&idtype={{IFA_TYPE}}&rdid={{DID}}&is_lat={{DNT}}&ip={{ipAddr}}&user_agent={{UserAgent}}
+#EXTINF:0 type="stream" channelId="1591", BeIN Sports
+https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://152.231.29.139:8000/play/a09t/index.m3u8
+#EXTINF:0 type="stream" channelId="642", Rai Sport
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:0 type="stream" channelId="1432", ESPN 4
+http://152.231.29.139:8000/play/a0dd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 6
+http://152.231.29.139:8000/play/a096/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 7
+http://152.231.29.139:8000/play/a0a9/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", DAZN
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:0 type="stream" channelId="3802" group="Deportes", Tyc sports
+https://khala.skylivehd.com/global/tycsports/index.m3u8?ip=181.117.8.18&token=9a5688c2b9af7c391d9d7291779464c1c363fe74-5e-1782811263-1782757263
+#EXTINF:0 type="stream" channelId="3802" group="Deportes", Tyc sports
+https://tt.domain77654422122.sbs/global/tyc/index.m3u8?token=749111ce5f032a6dd467eeb0a77ff4db532119c6-31-1782811309-1782757309&ip=181.117.8.18
+#EXTINF:0 type="stream" channelId="4744", RTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/1924
+#EXTINF:0 type="stream" channelId="4743", ECUAVISA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/962
+#EXTINF:0 type="stream" channelId="-1", TELERAMA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/11427
+#EXTINF:0 type="stream" channelId="4746", Ecuador TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3331
+#EXTINF:0 type="stream" channelId="-1", TC MI CANAL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/11425
+#EXTINF:0 type="stream" channelId="4747", Gamavision
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3332
+#EXTINF:0 type="stream" channelId="-1", TELEAMAZONAS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3856
+#EXTINF:0 type="stream" channelId="-1", Televicentro
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3336
+#EXTINF:0 type="stream" channelId="-1", OROMAR TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3333
+#EXTINF:0 type="stream" channelId="-1", MAKRODIGITAL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/107263
+#EXTINF:0 type="stream" channelId="-1", Unsion
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284555
+#EXTINF:0 type="stream" channelId="-1", ZARACAY TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/195485
+#EXTINF:0 type="stream" channelId="-1", Majestad TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284580
+#EXTINF:0 type="stream" channelId="-1", ECDF 1-TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/168822
+#EXTINF:0 type="stream" channelId="-1", ECDF 1-TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/168822
+#EXTINF:0 type="stream" channelId="-1", Claro sports 1
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7648
+#EXTINF:0 type="stream" channelId="-1", Claro Sports 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7673
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", DSPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3483
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", DSPORTS 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3484
+#EXTINF:0 type="stream" channelId="-1", DSPORTS +
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3485
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN Sur HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3713
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN 2 Sur
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7868
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN 3 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7917
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN 4 HD Sur
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3711
+#EXTINF:0 type="stream" channelId="-1", ESPN 5HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3712
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN 6 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8035
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN 7 HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3366
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN Premium
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3368
+#EXTINF:0 type="stream" channelId="-1", FOX PREMIUM
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/11426
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", TNT Sports Premium
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60232
+#EXTINF:0 type="stream" channelId="-1", Win Sports+ HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3374
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3338
+#EXTINF:0 type="stream" channelId="-1", Discovery H&H HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3340
+#EXTINF:0 type="stream" channelId="341", Discovery HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3341
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3342
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3343
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3344
+#EXTINF:0 type="stream" channelId="59", ID
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/11428
+#EXTINF:0 type="stream" channelId="310", El Gourmet
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7609
+#EXTINF:0 type="stream" channelId="67", TLC
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3353
+#EXTINF:0 type="stream" channelId="-1", Home Garden Latino
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3349
+#EXTINF:0 type="stream" channelId="207", Nat Geo HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3351
+#EXTINF:0 type="stream" channelId="1311", Sun Channel HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3352
+#EXTINF:0 type="stream" channelId="1201", History 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/7607
+#EXTINF:0 type="stream" channelId="1954", Las estrellas
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8610
+#EXTINF:0 type="stream" channelId="-1", TNT Novelas HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3412
+#EXTINF:0 type="stream" channelId="-1", KANAL D DRAMA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8608
+#EXTINF:0 type="stream" channelId="-1", Telenovelas
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8609
+#EXTINF:0 type="stream" channelId="4661", Pasiones
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8613
+#EXTINF:0 type="stream" channelId="1961", DISTRITO COMEDIA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/85971
+#EXTINF:0 type="stream" channelId="3209", Univision
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284591
+#EXTINF:0 type="stream" channelId="1968", Telemundo Internacional
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/275159
+#EXTINF:0 type="stream" channelId="-1", Panamericana
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60234
+#EXTINF:0 type="stream" channelId="-1", Panamericana
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60234
+#EXTINF:0 type="stream" channelId="-1", Latina Peru
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89768
+#EXTINF:0 type="stream" channelId="4773", CARACOL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285320
+#EXTINF:0 type="stream" channelId="3782", RCN Novelas
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8611
+#EXTINF:0 type="stream" channelId="1190", COMEDY CENTRAL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10009
+#EXTINF:0 type="stream" channelId="288", HTV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/9072
+#EXTINF:0 type="stream" channelId="1973", MTV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/9127
+#EXTINF:0 type="stream" channelId="3775", Mas Chic
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160141
+#EXTINF:0 type="stream" channelId="3124", E! HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3492
+#EXTINF:0 type="stream" channelId="333", GOLDEN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284605
+#EXTINF:0 type="stream" channelId="2903", Warner Channel HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3416
+#EXTINF:0 type="stream" channelId="1304", FX HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3502
+#EXTINF:0 type="stream" channelId="283", Cine Latino
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3381
+#EXTINF:0 type="stream" channelId="177", STAR CHANNEL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10010
+#EXTINF:0 type="stream" channelId="2147", Studio Universal HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3408
+#EXTINF:0 type="stream" channelId="2686", TNT Series
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3413
+#EXTINF:0 type="stream" channelId="1330", HBO HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3392
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3389
+#EXTINF:0 type="stream" channelId="2584", HBO Family HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
+#EXTINF:0 type="stream" channelId="361", HBO POP HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3569
+#EXTINF:0 type="stream" channelId="2585", HBO Plus
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3570
+#EXTINF:0 type="stream" channelId="2583", HBO Signature
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3571
+#EXTINF:0 type="stream" channelId="895", TCM
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3410
+#EXTINF:0 type="stream" channelId="292", Multipremier
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3575
+#EXTINF:0 type="stream" channelId="530", Sony HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3405
+#EXTINF:0 type="stream" channelId="-1", DHE HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3383
+#EXTINF:0 type="stream" channelId="2246", AXN HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3377
+#EXTINF:0 type="stream" channelId="-1", Atres Series
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3429
+#EXTINF:0 type="stream" channelId="1326", CineMax
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3382
+#EXTINF:0 type="stream" channelId="2896", Space HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3407
+#EXTINF:0 type="stream" channelId="2883", CNN Internacional
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3447
+#EXTINF:0 type="stream" channelId="-1", CNNE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3449
+#EXTINF:0 type="stream" channelId="1143", BBC News
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3432
+#EXTINF:0 type="stream" channelId="2663", Telesur
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/109124
+#EXTINF:0 type="stream" channelId="-1", DW EN ESPAÑOL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89769
+#EXTINF:0 type="stream" channelId="-1", Canal N Peru
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89766
+#EXTINF:0 type="stream" channelId="3789", TELEFE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
+#EXTINF:0 type="stream" channelId="3789", TELEFE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
+#EXTINF:0 type="stream" channelId="4752", Canal Uno
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/95554
+#EXTINF:0 type="stream" channelId="2409", el trece
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108799
+#EXTINF:0 type="stream" channelId="1409", City TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108808
+#EXTINF:0 type="stream" channelId="2542", TV Peru
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60235
+#EXTINF:0 type="stream" channelId="962", ATV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3422
+#EXTINF:0 type="stream" channelId="-1", TV+ HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60239
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3478
+#EXTINF:0 type="stream" channelId="1305", Cartoonito
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3479
+#EXTINF:0 type="stream" channelId="41", Nick
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10012
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3490
+#EXTINF:0 type="stream" channelId="19", Disney
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3488
+#EXTINF:0 type="stream" channelId="2837", Discovery Kids HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3487
+#EXTINF:0 type="stream" channelId="473", Baby TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10011
+#EXTINF:0 type="stream" channelId="-1", Semillitas
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10018
+#EXTINF:0 type="stream" channelId="2908", Zoomoo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10017
+#EXTINF:0 type="stream" channelId="1491", EWTN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3496
+#EXTINF:0 type="stream" channelId="2553", BETHEL TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108814
+#EXTINF:0 type="stream" channelId="4777", Cristovision
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60215
+#EXTINF:0 type="stream" channelId="4569", Enlace
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3497
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/254972
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/254972
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284588
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284588
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284588
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 4
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285788
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 4
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285788
+#EXTINF:0 type="stream" channelId="-1", EVENTOS DISNEY + 4
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285788
+#EXTINF:0 type="stream" channelId="-1", ESPN Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3357
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3708
+#EXTINF:0 type="stream" channelId="-1", ESPN 4 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8034
+#EXTINF:0 type="stream" channelId="-1", Latin America Sports
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8153
+#EXTINF:0 type="stream" channelId="-1", TD+
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8178
+#EXTINF:0 type="stream" channelId="-1", TD+ 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8182
+#EXTINF:0 type="stream" channelId="4668" group="Deportes", TNT SPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8088
+#EXTINF:0 type="stream" channelId="-1", 13 C
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3417
+#EXTINF:0 type="stream" channelId="-1", 13 C
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3417
+#EXTINF:0 type="stream" channelId="1208", A&E
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3420
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3375
+#EXTINF:0 type="stream" channelId="-1", Adult Swim
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3378
+#EXTINF:0 type="stream" channelId="2501", AMC HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3376
+#EXTINF:0 type="stream" channelId="-1", America TV HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3426
+#EXTINF:0 type="stream" channelId="-1", America TV HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3426
+#EXTINF:0 type="stream" channelId="2124", Antena 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3427
+#EXTINF:0 type="stream" channelId="-1", Antena 7- RD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3428
+#EXTINF:0 type="stream" channelId="238", Azcorazon
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3430
+#EXTINF:0 type="stream" channelId="228", Azmundo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3431
+#EXTINF:0 type="stream" channelId="228", Azmundo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3431
+#EXTINF:0 type="stream" channelId="2410", Baby First
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3434
+#EXTINF:0 type="stream" channelId="-1", Canal 13 HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3461
+#EXTINF:0 type="stream" channelId="-1", Canal 2 - ESA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3465
+#EXTINF:0 type="stream" channelId="-1", Canal 2 - NIC
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3466
+#EXTINF:0 type="stream" channelId="4773", Caracol
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3477
+#EXTINF:0 type="stream" channelId="4773", Caracol
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3477
+#EXTINF:0 type="stream" channelId="-1", CDN37 - RD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3439
+#EXTINF:0 type="stream" channelId="284", Cinecanal HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3480
+#EXTINF:0 type="stream" channelId="2621", EURO Channel
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3493
+#EXTINF:0 type="stream" channelId="326", Europa Europa
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3385
+#EXTINF:0 type="stream" channelId="3750", Exa TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3500
+#EXTINF:0 type="stream" channelId="2632", Film&Arts
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3386
+#EXTINF:0 type="stream" channelId="1389", GOLF CHANNEL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8239
+#EXTINF:0 type="stream" channelId="361", HBO POP
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3393
+#EXTINF:0 type="stream" channelId="2545", Latina
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8612
+#EXTINF:0 type="stream" channelId="-1", Multicinema
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3574
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3411
+#EXTINF:0 type="stream" channelId="3802" group="Deportes", TyC Sports
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/8116
+#EXTINF:0 type="stream" channelId="187", Universal
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3415
+#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3414
+#EXTINF:0 type="stream" channelId="-1", SONOVISION
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/58691
+#EXTINF:0 type="stream" channelId="2488", SEÑAL COLOMBIA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60220
+#EXTINF:0 type="stream" channelId="3802" group="Deportes", Tyc Sports
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160128
+#EXTINF:0 type="stream" channelId="-1", RCN HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60237
+#EXTINF:0 type="stream" channelId="-1", RCN HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60237
+#EXTINF:0 type="stream" channelId="1963", GOLDEN PREMIER
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60240
+#EXTINF:0 type="stream" channelId="3766", GOLDEN PREMIER 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/60241
+#EXTINF:0 type="stream" channelId="-1", 24/7 La Reina del Flow
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/61453
+#EXTINF:0 type="stream" channelId="-1", 24/7 La Patrulla Canina
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/82186
+#EXTINF:0 type="stream" channelId="-1", 24/7 La rosa de Guadalupe
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/82188
+#EXTINF:0 type="stream" channelId="-1", CANAL 3 GUA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89772
+#EXTINF:0 type="stream" channelId="-1", CANAL 7 GUA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89773
+#EXTINF:0 type="stream" channelId="-1", Canal Antigua GUA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89774
+#EXTINF:0 type="stream" channelId="-1", Canal VTV HND
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/89776
+#EXTINF:0 type="stream" channelId="3229", USA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/95549
+#EXTINF:0 type="stream" channelId="-1", DW Español
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/95551
+#EXTINF:0 type="stream" channelId="-1", RAI
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/95552
+#EXTINF:0 type="stream" channelId="2726", 26 TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108604
+#EXTINF:0 type="stream" channelId="4655", A24
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108605
+#EXTINF:0 type="stream" channelId="-1", CNN en español ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108606
+#EXTINF:0 type="stream" channelId="-1", Canal a Pan
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108614
+#EXTINF:0 type="stream" channelId="4663", Canal de la ciudad
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108615
+#EXTINF:0 type="stream" channelId="4659", Cine.Ar
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108616
+#EXTINF:0 type="stream" channelId="-1", ESPN Arg
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108631
+#EXTINF:0 type="stream" channelId="2725", HBO Mundi
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108713
+#EXTINF:0 type="stream" channelId="-1", Fox Sports Arg
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108714
+#EXTINF:0 type="stream" channelId="-1", Fox Sports Arg HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108715
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 1 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108726
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 2 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108727
+#EXTINF:0 type="stream" channelId="4669" group="Deportes", Fox Sports Premium
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108790
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 3 Norte
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108791
+#EXTINF:0 type="stream" channelId="2533", RT en español
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108792
+#EXTINF:0 type="stream" channelId="4237", VTV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108797
+#EXTINF:0 type="stream" channelId="-1", la tele urg
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108798
+#EXTINF:0 type="stream" channelId="-1", el trece internacional
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108800
+#EXTINF:0 type="stream" channelId="4784", Telecafe
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108801
+#EXTINF:0 type="stream" channelId="4785", Telecaribe
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108802
+#EXTINF:0 type="stream" channelId="4790", Teleislas
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108803
+#EXTINF:0 type="stream" channelId="4786", Telepacifico
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108804
+#EXTINF:0 type="stream" channelId="4787", CANAL TRO
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108810
+#EXTINF:0 type="stream" channelId="1952", De pelicula
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108811
+#EXTINF:0 type="stream" channelId="368", CUBA VISION
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108815
+#EXTINF:0 type="stream" channelId="4653", Crónica
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108820
+#EXTINF:0 type="stream" channelId="-1", Ecuentro
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108821
+#EXTINF:0 type="stream" channelId="-1", La Nacion TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108823
+#EXTINF:0 type="stream" channelId="4658", Pakapaka
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108824
+#EXTINF:0 type="stream" channelId="-1", Rural
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108825
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 2 ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108826
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 2 HD ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108827
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 3 ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108828
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 3 HD ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108829
+#EXTINF:0 type="stream" channelId="-1", AM Sports
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108830
+#EXTINF:0 type="stream" channelId="1925", DeporTV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108831
+#EXTINF:0 type="stream" channelId="4750", ZONA LATINA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/109133
+#EXTINF:0 type="stream" channelId="-1", RED TELEVISION
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/109134
+#EXTINF:0 type="stream" channelId="-1", TVC SPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/110899
+#EXTINF:0 type="stream" channelId="-1", TVC DEPORTES 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/110900
+#EXTINF:0 type="stream" channelId="-1", ESPN 7
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/112610
+#EXTINF:0 type="stream" channelId="2719", Cartoon Network HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/117800
+#EXTINF:0 type="stream" channelId="1418", HGTV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/121721
+#EXTINF:0 type="stream" channelId="527", CNBC
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/121728
+#EXTINF:0 type="stream" channelId="-1", Stingray Cocktail Lounge
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/121809
+#EXTINF:0 type="stream" channelId="-1", TVM25 ESA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/121811
+#EXTINF:0 type="stream" channelId="-1", TELEMEDELLIN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152309
+#EXTINF:0 type="stream" channelId="2549", ATV+
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152312
+#EXTINF:0 type="stream" channelId="-1", GLOBO VISION
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152313
+#EXTINF:0 type="stream" channelId="4803", TELEVEN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152314
+#EXTINF:0 type="stream" channelId="-1", VENEVISION
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152315
+#EXTINF:0 type="stream" channelId="-1", TELETUYA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152316
+#EXTINF:0 type="stream" channelId="-1", TELETUYA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152316
+#EXTINF:0 type="stream" channelId="3366", CANAL 8
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/152317
+#EXTINF:0 type="stream" channelId="805", NBA TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160123
+#EXTINF:0 type="stream" channelId="3731", AZTECA UNO
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160124
+#EXTINF:0 type="stream" channelId="-1", BESIBOL LATINO
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160125
+#EXTINF:0 type="stream" channelId="-1", UDG44
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160126
+#EXTINF:0 type="stream" channelId="-1", CB TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160127
+#EXTINF:0 type="stream" channelId="-1", TyC Argentina
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160128
+#EXTINF:0 type="stream" channelId="3282", Metro
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160129
+#EXTINF:0 type="stream" channelId="4651", El nueve
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160131
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160132
+#EXTINF:0 type="stream" channelId="-1", ESPN 3 ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160133
+#EXTINF:0 type="stream" channelId="-1", ESPN 4 ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160134
+#EXTINF:0 type="stream" channelId="-1" group="Deportes", ESPN PREMIUM ARG
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160136
+#EXTINF:0 type="stream" channelId="-1", HEI
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160139
+#EXTINF:0 type="stream" channelId="-1", WUAN+
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160143
+#EXTINF:0 type="stream" channelId="-1", RPP
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160144
+#EXTINF:0 type="stream" channelId="1426", GLOBAL
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160145
+#EXTINF:0 type="stream" channelId="-1", TV PUBLICA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160146
+#EXTINF:0 type="stream" channelId="-1", IEAN JESUS TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/183060
+#EXTINF:0 type="stream" channelId="-1", Tele Vid
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/183062
+#EXTINF:0 type="stream" channelId="-1", Ecoteltv
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284556
+#EXTINF:0 type="stream" channelId="-1", RadioCuenca Estereo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284558
+#EXTINF:0 type="stream" channelId="-1", Voz y TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284559
+#EXTINF:0 type="stream" channelId="-1", TV Universal Ecuador
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284560
+#EXTINF:0 type="stream" channelId="-1", Latacunga TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284562
+#EXTINF:0 type="stream" channelId="-1", Austral TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284563
+#EXTINF:0 type="stream" channelId="-1", Puruwa TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284564
+#EXTINF:0 type="stream" channelId="-1", Circacu TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284568
+#EXTINF:0 type="stream" channelId="-1", Curiquingue Tv
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284571
+#EXTINF:0 type="stream" channelId="-1", El Sol Networt Tv
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284572
+#EXTINF:0 type="stream" channelId="-1", FM Mundo
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284573
+#EXTINF:0 type="stream" channelId="-1", Hechos Ecuador
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284575
+#EXTINF:0 type="stream" channelId="-1", IEN Jesus Ecuador
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284576
+#EXTINF:0 type="stream" channelId="-1", Infinita TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284577
+#EXTINF:0 type="stream" channelId="-1", Loreto TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284581
+#EXTINF:0 type="stream" channelId="-1", Metropolitano Medios TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284582
+#EXTINF:0 type="stream" channelId="-1", Television Quevedeña
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284585
+#EXTINF:0 type="stream" channelId="-1", Tv Color
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284586
+#EXTINF:0 type="stream" channelId="-1", ESPN 3HD COLOMBIA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284602
+#EXTINF:0 type="stream" channelId="1263" group="Deportes", ESPN HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284603
+#EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284606
+#EXTINF:0 type="stream" channelId="1200", LIFETIME
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284607
+#EXTINF:0 type="stream" channelId="-1", STAR CHANEL +
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284610
+#EXTINF:0 type="stream" channelId="1214", SONY MOVIES
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284611
+#EXTINF:0 type="stream" channelId="2147", STUDIO UNIVERSAL HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284612
+#EXTINF:0 type="stream" channelId="-1", DIBLU TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284640
+#EXTINF:0 type="stream" channelId="-1", DIBLU TV
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/284640
+#EXTINF:0 type="stream" channelId="-1", DAZN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285789
+#EXTINF:0 type="stream" channelId="-1", DAZN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285789
+#EXTINF:0 type="stream" channelId="-1", DAZN 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285791
+#EXTINF:0 type="stream" channelId="-1", DAZN 3
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285791
+#EXTINF:0 type="stream" channelId="-1", DAZN LA LIGA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285792
+#EXTINF:0 type="stream" channelId="-1", DAZN LA LIGA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285792
+#EXTINF:0 type="stream" channelId="-1", TUDN 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285794
+#EXTINF:0 type="stream" channelId="1176", SKY SPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285795
+#EXTINF:0 type="stream" channelId="1176", SKY SPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285795
+#EXTINF:0 type="stream" channelId="-1", SKY SPORTS LA LIGA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285796
+#EXTINF:0 type="stream" channelId="-1", SKY SPORTS LA LIGA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285796
+#EXTINF:0 type="stream" channelId="805", NBA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285798
+#EXTINF:0 type="stream" channelId="805", NBA
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285798
+#EXTINF:0 type="stream" channelId="-1", MOVISTA LIGA DE CAMPEONES
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285799
+#EXTINF:0 type="stream" channelId="-1", MOVISTA LIGA DE CAMPEONES
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285799
+#EXTINF:0 type="stream" channelId="3804", TUDN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285800
+#EXTINF:0 type="stream" channelId="3804", TUDN
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285800
+#EXTINF:0 type="stream" channelId="-1", TIGO SPORT 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285804
+#EXTINF:0 type="stream" channelId="-1", TIGO SPORT 2
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285804
+#EXTINF:0 type="stream" channelId="-1", ESPN 5HD NORTE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285858
+#EXTINF:0 type="stream" channelId="-1", ESPN 5HD NORTE
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/285858
+#EXTINF:0 type="stream" channelId="-1", ESPN 6 HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/286258
+#EXTINF:0 type="stream" channelId="-1", ESPN 6 HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/286258
+#EXTINF:0 type="stream" channelId="-1", TV AZTECA DEPORTES
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/286259
+#EXTINF:0 type="stream" channelId="-1", TV AZTECA DEPORTES
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/286259
+#EXTINF:0 type="stream" channelId="-1", 5tar Max
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
+#EXTINF:0 type="stream" channelId="4552", ActionMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.ts
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+#EXTINF:0 type="stream" channelId="3216", MoreMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.ts
+#EXTINF:0 type="stream" channelId="4558", MovieMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/108.ts
+#EXTINF:0 type="stream" channelId="935", HBO 2 HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.ts
+#EXTINF:0 type="stream" channelId="1551", HBO Comedy HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.ts
+#EXTINF:0 type="stream" channelId="2584", HBO Family HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/102.ts
+#EXTINF:0 type="stream" channelId="-1", HBO HD East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/103.ts
+#EXTINF:0 type="stream" channelId="-1", HBO HD Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/104.ts
+#EXTINF:0 type="stream" channelId="3769", HBO Latino
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
+#EXTINF:0 type="stream" channelId="4592", HBO Zone HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime 2 HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime Bet
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
+#EXTINF:0 type="stream" channelId="3222", Showtime Extreme
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.ts
+#EXTINF:0 type="stream" channelId="3223", Showtime Family Zone
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/114.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime HD West
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime Nex
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
+#EXTINF:0 type="stream" channelId="-1", Showtime Show Case
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
+#EXTINF:0 type="stream" channelId="3225", Showtime Women
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.ts
+#EXTINF:0 type="stream" channelId="-1", Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.ts
+#EXTINF:0 type="stream" channelId="3227", Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.ts
+#EXTINF:0 type="stream" channelId="-1", Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.ts
+#EXTINF:0 type="stream" channelId="-1", Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.ts
+#EXTINF:0 type="stream" channelId="-1", Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
+#EXTINF:0 type="stream" channelId="-1", Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
