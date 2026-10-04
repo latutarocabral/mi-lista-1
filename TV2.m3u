@@ -1,0 +1,367 @@
+#EXTM3U
+
+# --- AIRES / GENERALES ---
+#EXTINF:-1 tvg-id="118" group-title="Nacionales",118 - Encuentro
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4756
+#EXTINF:-1 tvg-id="120" group-title="Nacionales",120 - América TV
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4925
+#EXTINF:-1 tvg-id="121" group-title="Nacionales",121 - TV Pública
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4818
+#EXTINF:-1 tvg-id="122" group-title="Nacionales",122 - El Nueve
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4734
+#EXTINF:-1 tvg-id="123" group-title="Nacionales",123 - Telefe
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/5100
+#EXTINF:-1 tvg-id="124" group-title="Nacionales",124 - El Trece
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4729
+#EXTINF:-1 tvg-id="125" group-title="Nacionales",125 - Net TV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/125.ts
+#EXTINF:-1 tvg-id="126" group-title="Nacionales",126 - Bravo TV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/126.ts
+#EXTINF:-1 tvg-id="715" group-title="Noticias",715 - LN+
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/715.ts
+#EXTINF:-1 tvg-id="716" group-title="Noticias",716 - TN (Todo Noticias)
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4812
+#EXTINF:-1 tvg-id="717" group-title="Noticias",717 - C5N
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4728
+#EXTINF:-1 tvg-id="718" group-title="Noticias",718 - Crónica TV
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4746
+#EXTINF:-1 tvg-id="719" group-title="Noticias",719 - A24
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/719.ts
+#EXTINF:-1 tvg-id="720" group-title="Noticias",720 - Canal 26
+http://31.43.191.125:8080/VIP01471698937097001/21698937097444/4731
+#EXTINF:-1 tvg-id="721" group-title="Noticias",721 - IP Noticias
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/721.ts
+#EXTINF:-1 tvg-id="722" group-title="Noticias",722 - CNN en Español
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/722.ts
+#EXTINF:-1 tvg-id="724" group-title="Noticias",724 - BBC News
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/724.ts
+#EXTINF:-1 tvg-id="726" group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="728" group-title="Noticias",France 24
+http://216.155.91.47:8000/play/a0s4/44654152.m3u8
+#EXTINF:-1 tvg-id="730" group-title="Noticias",730 - RT en Español
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/730.ts
+#EXTINF:-1 tvg-id="610" group-title="Deportes",DSPORTS
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3483
+#EXTINF:-1 tvg-id="612" group-title="Deportes",612 - DSPORTS 2
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/612.ts
+#EXTINF:-1 tvg-id="613" group-title="Deportes",613 - DSPORTS +
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/613.ts
+#EXTINF:-1 tvg-id="614" group-title="Deportes",614 - DSPORTS Fight
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/614.ts
+#EXTINF:-1 tvg-id="615" group-title="Deportes",615 - DSPORTS Motor
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/615.ts
+#EXTINF:-1 tvg-id="621" group-title="Deportes",ESPN
+http://205.235.6.29:8000/play/a0zf/index.m3u8
+#EXTINF:-1 tvg-id="622" group-title="Deportes",ESPN 2
+http://181.78.0.107:8006/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="623" group-title="Deportes",623 - ESPN 3
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/623.ts
+#EXTINF:-1 tvg-id="624" group-title="Deportes",624 - ESPN 4
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/624.ts
+#EXTINF:-1 tvg-id="625" group-title="Deportes",ESPN 5
+http://181.78.0.107:8006/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="626" group-title="Deportes",626 - ESPN 6
+http://205.235.6.29:8000/play/a0zm/index.m3u8
+#EXTINF:-1 tvg-id="627" group-title="Deportes",ESPN 7
+http://209.61.81.38:8000/play/a00c/59768329.m3u8
+#EXTINF:-1 tvg-id="629" group-title="Deportes",629 - Fox Sports
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/629.ts
+#EXTINF:-1 tvg-id="630" group-title="Deportes",630 - Fox Sports 2
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/630.ts
+#EXTINF:-1 tvg-id="631" group-title="Deportes",631 - Fox Sports 3
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/631.ts
+#EXTINF:-1 tvg-id="632" group-title="Deportes Premium",TNT Sports
+http://200.115.120.1:8000/play/ca040/11984601.m3u8
+#EXTINF:-1 tvg-id="634" group-title="Deportes Premium",ESPN Premium
+http://45.5.57.58:8000/play/a02o/58930005.m3u8
+#EXTINF:-1 tvg-id="635" group-title="Deportes",635 - TyC Sports
+http://38.191.84.146:8000/play/a0bl/23307944.m3u8
+#EXTINF:-1 tvg-id="636" group-title="Deportes",636 - Golf Channel
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/636.ts
+#EXTINF:-1 tvg-id="637" group-title="Deportes",637 - NBA TV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/637.ts
+#EXTINF:-1 tvg-id="638" group-title="Deportes",638 - El Garage TV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/638.ts
+#EXTINF:-1 tvg-id="202" group-title="Cine y Series",Warner Channel
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72643
+#EXTINF:-1 tvg-id="204" group-title="Cine y Series",204 - FOX Channel / Star Channel
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/204.ts
+#EXTINF:-1 tvg-id="206" group-title="Cine y Series",206 - Sony Channel
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3405
+#EXTINF:-1 tvg-id="207" group-title="Cine y Series",AXN
+http://190.61.114.186:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="208" group-title="Cine y Series",208 - Universal TV
+http://181.78.0.107:8006/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="209" group-title="Cine y Series",209 - USA Network
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/209.ts
+#EXTINF:-1 tvg-id="210" group-title="Cine y Series",210 - A&E
+http://190.61.114.186:8000/play/a040/47510647.m3u8
+#EXTINF:-1 tvg-id="211" group-title="Cine y Series",AXN HD
+http://starlatino.tv:8880/ginito5278/XFb9eLdKYZmm/414484
+#EXTINF:-1 tvg-id="212" group-title="Cine y Series",TNT
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
+#EXTINF:-1 tvg-id="214" group-title="Cine y Series",214 - Space
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/214.ts
+#EXTINF:-1 tvg-id="216" group-title="Cine y Series",216 - Cinemax
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72620
+#EXTINF:-1 tvg-id="217" group-title="Cine y Series",217 - Studio Universal
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72621
+#EXTINF:-1 tvg-id="218" group-title="Cine y Series",218 - Paramount Network
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/218.ts
+#EXTINF:-1 tvg-id="219" group-title="Cine y Series",FX
+http://216.155.91.47:8000/play/a0ta/17907007.m3u8
+#EXTINF:-1 tvg-id="221" group-title="Cine y Series",221 - AMC
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/221.ts
+#EXTINF:-1 tvg-id="222" group-title="Cine y Series",222 - TCM
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/222.ts
+#EXTINF:-1 tvg-id="223" group-title="Cine y Series",223 - Europa Europa
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/223.ts
+#EXTINF:-1 tvg-id="224" group-title="Cine y Series",224 - Film & Arts
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/224.ts
+#EXTINF:-1 tvg-id="225" group-title="Cine y Series",225 - I.Sat
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/225.ts
+#EXTINF:-1 tvg-id="226" group-title="Cine y Series",226 - Cinecanal
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72613
+#EXTINF:-1 tvg-id="227" group-title="Cine y Series",Golden
+http://190.61.114.186:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="228" group-title="Cine y Series",Golden Edge
+http://190.61.114.186:8000/play/a022/44302065.m3u8
+#EXTINF:-1 tvg-id="229" group-title="Cine y Series",229 - De Película
+http://205.235.6.29:8000/play/a0z7/index.m3u8
+#EXTINF:-1 tvg-id="230" group-title="Cine y Series",230 - DBOX
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/230.ts
+#EXTINF:-1 tvg-id="232" group-title="Cine y Series",232 - Eurochannel
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/232.ts
+#EXTINF:-1 tvg-id="234" group-title="Cine y Series",234 - Atreseries
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/234.ts
+#EXTINF:-1 tvg-id="236" group-title="Cine y Series",236 - Star Life
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/236.ts
+#EXTINF:-1 tvg-id="238" group-title="Cine y Series",238 - Lifetime
+http://190.61.114.186:8000/play/a046/89906375.m3u8
+#EXTINF:-1 tvg-id="213" group-title="Variedades",213 - Comedy Central
+http://190.61.114.186:8000/play/a03b/83493617.m3u8
+#EXTINF:-1 tvg-id="220" group-title="Variedades",220 - E! Entertainment
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/220.ts
+#EXTINF:-1 tvg-id="233" group-title="Variedades",233 - Mas Chic
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/233.ts
+#EXTINF:-1 tvg-id="235" group-title="Variedades",El Gourmet
+http://38.191.84.146:8000/play/a05u/79976987.m3u8
+#EXTINF:-1 tvg-id="237" group-title="Variedades",237 - Food Network
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/237.ts
+#EXTINF:-1 tvg-id="239" group-title="Variedades",239 - TLC
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72598
+#EXTINF:-1 tvg-id="240" group-title="Variedades",240 - HGTV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/240.ts
+#EXTINF:-1 tvg-id="241" group-title="Variedades",241 - Glitz
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/241.ts
+#EXTINF:-1 tvg-id="242" group-title="Variedades",242 - TruTV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/242.ts
+#EXTINF:-1 tvg-id="244" group-title="Variedades",Investigation Discovery (ID)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72594
+#EXTINF:-1 tvg-id="245" group-title="Variedades",245 - Telemundo Internacional
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/245.ts
+#EXTINF:-1 tvg-id="246" group-title="Variedades",246 - Las Estrellas
+http://190.61.114.186:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="247" group-title="Variedades",247 - TLNovelas
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72599
+#EXTINF:-1 tvg-id="248" group-title="Variedades",248 - VePlus
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/248.ts
+#EXTINF:-1 tvg-id="249" group-title="Variedades",249 - TV Azteca Corazón
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/249.ts
+#EXTINF:-1 tvg-id="732" group-title="Documentales",732 - National Geographic
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/732.ts
+#EXTINF:-1 tvg-id="734" group-title="Documentales",734 - Nat Geo Wild
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/734.ts
+#EXTINF:-1 tvg-id="735" group-title="Documentales",735 - Discovery Channel
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/735.ts
+#EXTINF:-1 tvg-id="738" group-title="Documentales",738 - Discovery Science
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/738.ts
+#EXTINF:-1 tvg-id="739" group-title="Documentales",739 - Discovery Turbo
+http://216.155.91.47:8000/play/a0mt/21449522.m3u8
+#EXTINF:-1 tvg-id="740" group-title="Documentales",740 - History
+http://190.61.114.186:8000/play/a044/17255587.m3u8
+#EXTINF:-1 tvg-id="742" group-title="Documentales",742 - History 2 (H2)
+http://190.61.114.186:8000/play/a045/11427377.m3u8
+#EXTINF:-1 tvg-id="744" group-title="Documentales",744 - Travel & Adventure
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/744.ts
+#EXTINF:-1 tvg-id="746" group-title="Documentales",746 - Love Nature
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/746.ts
+#EXTINF:-1 tvg-id="302" group-title="Infantiles",302 - Cartoon Network
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/302.ts
+#EXTINF:-1 tvg-id="310" group-title="Infantiles",310 - Disney Channel
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/310.ts
+#EXTINF:-1 tvg-id="316" group-title="Infantiles",316 - Tooncast
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/316.ts
+#EXTINF:-1 tvg-id="320" group-title="Infantiles",320 - BabyFirst
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/320.ts
+#EXTINF:-1 tvg-id="269" group-title="Música",269 - MTV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/269.ts
+#EXTINF:-1 tvg-id="270" group-title="Música",270 - MTV Hits
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/270.ts
+#EXTINF:-1 tvg-id="272" group-title="Música",272 - MTV 00s
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/272.ts
+#EXTINF:-1 tvg-id="274" group-title="Música",274 - VH1
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/274.ts
+#EXTINF:-1 tvg-id="275" group-title="Música",275 - HTV
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/275.ts
+#EXTINF:-1 tvg-id="278" group-title="Música",278 - CM El Canal de la Música
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/278.ts
+#EXTINF:-1 tvg-id="279" group-title="Música",279 - Telehit
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/279.ts
+#EXTINF:-1 tvg-id="280" group-title="Música",Telehit Música
+http://45.5.57.58:8000/play/a021/87403234.m3u8
+#EXTINF:-1 tvg-id="282" group-title="Música",282 - Music Choice Pop
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/282.ts
+#EXTINF:-1 tvg-id="284" group-title="Música",284 - Music Choice Rock
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/284.ts
+#EXTINF:-1 tvg-id="524" group-title="HBO Premium",524 - HBO
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/524.ts
+#EXTINF:-1 tvg-id="525" group-title="HBO Premium",525 - HBO 2
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/525.ts
+#EXTINF:-1 tvg-id="526" group-title="HBO Premium",526 - HBO Family
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/526.ts
+#EXTINF:-1 tvg-id="527" group-title="HBO Premium",527 - HBO Signature
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/527.ts
+#EXTINF:-1 tvg-id="528" group-title="HBO Premium",528 - HBO Mundi
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/528.ts
+#EXTINF:-1 tvg-id="529" group-title="HBO Premium",529 - HBO Pop
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/529.ts
+#EXTINF:-1 tvg-id="530" group-title="HBO Premium",530 - HBO Xtreme
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/530.ts
+#EXTINF:-1 tvg-id="532" group-title="HBO Premium",532 - HBO Plus
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/532.ts
+#EXTINF:-1 tvg-id="552" group-title="Universal Premium",Universal Premiere
+http://starlatino.tv:8880/ginito5278/XFb9eLdKYZmm/414525
+#EXTINF:-1 tvg-id="554" group-title="Universal Premium",554 - Universal Cinema
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/554.ts
+#EXTINF:-1 tvg-id="556" group-title="Universal Premium",556 - Universal Crime
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/556.ts
+#EXTINF:-1 tvg-id="558" group-title="Universal Premium",558 - Universal Comedy
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/558.ts
+#EXTINF:-1 tvg-id="560" group-title="Universal Premium",560 - Universal Reality
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/560.ts
+#EXTINF:-1 tvg-id="760" group-title="Internacionales",760 - TVE Internacional
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/760.ts
+#EXTINF:-1 tvg-id="762" group-title="Internacionales",762 - Antena 3 Internacional
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/762.ts
+#EXTINF:-1 tvg-id="764" group-title="Internacionales",764 - RAI Italia
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/764.ts
+#EXTINF:-1 tvg-id="766" group-title="Internacionales",766 - TV5Monde
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/766.ts
+#EXTINF:-1 tvg-id="768" group-title="Internacionales",768 - TV Chile
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/768.ts
+#EXTINF:-1 tvg-id="770" group-title="Internacionales",770 - Caracol Internacional
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/770.ts
+#EXTINF:-1 tvg-id="772" group-title="Internacionales",772 - RCN Nuestra Tele
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/772.ts
+#EXTINF:-1 tvg-id="350" group-title="Religión",350 - EWTN
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/350.ts
+#EXTINF:-1 tvg-id="352" group-title="Religión",Enlace TV
+http://45.5.57.58:8000/play/a07s/93989183.m3u8
+#EXTINF:-1 tvg-id="1120" group-title="HD Vivo",1120 - América HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1120.ts
+#EXTINF:-1 tvg-id="1121" group-title="HD Vivo",1121 - TV Pública HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1121.ts
+#EXTINF:-1 tvg-id="1122" group-title="HD Vivo",1122 - El Nueve HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1122.ts
+#EXTINF:-1 tvg-id="1123" group-title="HD Vivo",Telefe HD
+http://209.61.81.38:8000/play/a03u/42130783.m3u8
+#EXTINF:-1 tvg-id="1124" group-title="HD Vivo",1124 - El Trece HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1124.ts
+#EXTINF:-1 tvg-id="1202" group-title="HD Vivo",Warner Channel HD
+http://216.155.91.47:8000/play/a0t4/35282522.m3u8
+#EXTINF:-1 tvg-id="1204" group-title="HD Vivo",Star Channel HD
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10010
+#EXTINF:-1 tvg-id="1206" group-title="HD Vivo",Sony Cine HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491473
+#EXTINF:-1 tvg-id="1208" group-title="HD Vivo",Universal TV HD
+http://190.61.114.186:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="1212" group-title="HD Vivo",TNT HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488414
+#EXTINF:-1 tvg-id="1214" group-title="HD Vivo",1214 - Space HD
+http://205.235.6.29:8000/play/a0yu/index.m3u8
+#EXTINF:-1 tvg-id="1216" group-title="HD Vivo",1216 - Cinemax HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1216.ts
+#EXTINF:-1 tvg-id="1217" group-title="HD Vivo",1217 - Studio Universal HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1217.ts
+#EXTINF:-1 tvg-id="1218" group-title="HD Vivo",1218 - Paramount Network HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1218.ts
+#EXTINF:-1 tvg-id="1219" group-title="HD Vivo",1219 - FX HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1219.ts
+#EXTINF:-1 tvg-id="1221" group-title="HD Vivo",1221 - AMC HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1221.ts
+#EXTINF:-1 tvg-id="1226" group-title="HD Vivo",1226 - Cinecanal HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1226.ts
+#EXTINF:-1 tvg-id="1244" group-title="HD Vivo",1244 - ID HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1244.ts
+#EXTINF:-1 tvg-id="1269" group-title="HD Vivo",1269 - MTV HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1269.ts
+#EXTINF:-1 tvg-id="1302" group-title="HD Vivo",Cartoon Network HD
+http://209.126.106.30:8081/live/b5f22885cedc40448e06e889317ebadc/80f9561f27444d00a27f123a7479e4d4/34.m3u8
+#EXTINF:-1 tvg-id="1310" group-title="HD Vivo",Disney Channel HD
+http://216.155.91.47:8000/play/a0sx/69410157.m3u8
+#EXTINF:-1 tvg-id="1314" group-title="HD Vivo",Discovery Word
+http://216.155.91.47:8000/play/a0lq/42351239.m3u8
+#EXTINF:-1 tvg-id="1524" group-title="HD Vivo",1524 - HBO HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1524.ts
+#EXTINF:-1 tvg-id="1525" group-title="HD Vivo",1525 - HBO 2 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1525.ts
+#EXTINF:-1 tvg-id="1526" group-title="HD Vivo",1526 - HBO Family HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1526.ts
+#EXTINF:-1 tvg-id="1527" group-title="HD Vivo",1527 - HBO Signature HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1527.ts
+#EXTINF:-1 tvg-id="1530" group-title="HD Vivo",1530 - HBO Xtreme HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1530.ts
+#EXTINF:-1 tvg-id="1610" group-title="HD Vivo",DSPORTS HD
+http://38.191.84.146:8000/play/a0b9/21371328.m3u8
+#EXTINF:-1 tvg-id="1612" group-title="HD Vivo",DSPORTS 2 HD
+http://38.191.84.146:8000/play/a0bn/48691944.m3u8
+#EXTINF:-1 tvg-id="1613" group-title="HD Vivo",DSPORTS + HD
+http://38.191.84.146:8000/play/a0bl/71524682.m3u8
+#EXTINF:-1 tvg-id="1621" group-title="HD Vivo",ESPN HD
+http://209.61.81.38:8000/play/a019/49512732.m3u8
+#EXTINF:-1 tvg-id="1622" group-title="HD Vivo",ESPN 2 HD
+http://209.61.81.38:8000/play/a011/48351550.m3u8
+#EXTINF:-1 tvg-id="1623" group-title="HD Vivo",ESPN 3 HD
+http://209.61.81.38:8000/play/a02c/22562426.m3u8
+#EXTINF:-1 tvg-id="1624" group-title="HD Vivo",ESPN 4 HD
+http://209.61.81.38:8000/play/a00j/32539958.m3u8
+#EXTINF:-1 tvg-id="1629" group-title="HD Vivo",1629 - Fox Sports HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1629.ts
+#EXTINF:-1 tvg-id="1630" group-title="HD Vivo",1630 - Fox Sports 2 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1630.ts
+#EXTINF:-1 tvg-id="1631" group-title="HD Vivo",1631 - Fox Sports 3 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1631.ts
+#EXTINF:-1 tvg-id="1632" group-title="HD Vivo",TNT Sports Series HD
+http://216.155.91.47:8000/play/a0ko/89250607.m3u8
+#EXTINF:-1 tvg-id="1634" group-title="HD Vivo",ESPN Premium HD
+http://209.61.81.38:8000/play/a01c/13093863.m3u8
+#EXTINF:-1 tvg-id="1635" group-title="HD Vivo",1635 - TyC Sports HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1635.ts
+#EXTINF:-1 tvg-id="1715" group-title="HD Vivo",1715 - LN+ HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1715.ts
+#EXTINF:-1 tvg-id="1716" group-title="HD Vivo",1716 - TN HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1716.ts
+#EXTINF:-1 tvg-id="1717" group-title="HD Vivo",1717 - C5N HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1717.ts
+#EXTINF:-1 tvg-id="1719" group-title="HD Vivo",1719 - A24 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1719.ts
+#EXTINF:-1 tvg-id="1720" group-title="HD Vivo",1720 - Canal 26 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1720.ts
+#EXTINF:-1 tvg-id="1732" group-title="HD Vivo",1732 - National Geographic HD
+http://209.126.106.30:8081/live/a67cee5f36e245589629f002c292e354/c19dfce4e1b34123a947d1eacebbe85a/53.m3u8
+#EXTINF:-1 tvg-id="1735" group-title="HD Vivo",1735 - Discovery Channel HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1735.ts
+#EXTINF:-1 tvg-id="1736" group-title="HD Vivo",Animal Planet HD
+http://38.191.84.146:8000/play/a05p/35915546.m3u8
+#EXTINF:-1 tvg-id="1740" group-title="HD Vivo",1740 - History HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1740.ts
+#EXTINF:-1 tvg-id="1742" group-title="HD Vivo",1742 - H2 HD
+http://tu-servidor-iptv:puerto/live/usuario/contraseña/1742.ts
+#EXTINF:-1,Sony Movies
+http://190.61.114.186:8000/play/a043/41460172.m3u8
+#EXTINF:-1,Discovery Familia
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488430
+#EXTINF:-1,TnT Novelas
+http://200.115.120.1:8000/play/ca123/index.m3u8
