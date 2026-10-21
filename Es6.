@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://somme-billard.fr/wp-content/uploads/2023/02/3-bandes.jpg" group-title="EVENTOS",BILLAR
+#EXTINF:-1 tvg-id="XD" tvg-logo="https://somme-billard.fr/wp-content/uploads/2023/02/3-bandes.jpg" group-title="EVENTOS",BILLAR
 http://xdplus.site:8880/live/JoseVallejos11/FZJDQ/638699.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s" group-title="EVENTOS",D4ZN F1
 http://xdplus.site:8880/live/JoseVallejos11/FZJDQ/531500.ts
