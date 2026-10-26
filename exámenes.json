@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "Canal de Noticias",
-          "action": "video:https://tu-servidor.com/stream/noticias.m3u8",
+          "action": "video:https://tvlibre.st/html/fl/?get=Q2FuYWw5&lang=1",
           "image": "https://via.placeholder.com/300x180.png?text=Noticias"
         },
         {
