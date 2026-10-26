@@ -1,0 +1,21 @@
+{
+  "headline": "Mi Lista de Canales",
+  "items": [
+    {
+      "title": "Canal en Vivo 1",
+      "icon": "http://tu-servidor.com/canal1.png",
+      "action": "video:http://tu-servidor.com/stream.m3u8"
+    },
+    {
+      "title": "Película 1",
+      "icon": "http://tu-servidor.com/poster.jpg",
+      "action": "video:http://tu-servidor.com/pelicula.mp4"
+    }
+  ]
+}
+{
+  "name": "Mi Portal Personal",
+  "version": "1.0.0",
+  "icon": "http://tu-servidor.com/logo.png",
+  "parameter": "menu:http://tu-servidor.com/menu.json"
+}
