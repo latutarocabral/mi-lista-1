@@ -1,16 +1,33 @@
 {
-  "name": "Mi Portal Personal",
+  "name": "Mi Centro Multimedia",
   "version": "1.0.0",
   "items": [
     {
-      "title": "Canal 1 (En vivo)",
-      "action": "video:https://tvlibre.st/html/fl/?get=Q2FuYWw5&lang=1",
-      "image": "https://via.placeholder.com/300x180.png?text=Canal+1"
+      "title": "Televisión en Vivo",
+      "color": "rgb(220, 20, 60)",
+      "items": [
+        {
+          "title": "Canal de Noticias",
+          "action": "video:https://tu-servidor.com/stream/noticias.m3u8",
+          "image": "https://via.placeholder.com/300x180.png?text=Noticias"
+        },
+        {
+          "title": "Canal de Deportes",
+          "action": "video:https://tu-servidor.com/stream/deportes.m3u8",
+          "image": "https://via.placeholder.com/300x180.png?text=Deportes"
+        }
+      ]
     },
     {
-      "title": "Video de Prueba",
-      "action": "video:http://ejemplo.com/video.mp4",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbqK4p_L4HLwGc43LghOeBA014TrfcL4Y4T3w2JrwzA&s=10"
+      "title": "Peliculas y Series",
+      "color": "rgb(30, 144, 255)",
+      "items": [
+        {
+          "title": "Acción",
+          "action": "video:https://tu-servidor.com/videos/pelicula1.mp4",
+          "image": "https://via.placeholder.com/300x180.png?text=Accion"
+        }
+      ]
     }
   ]
 }
